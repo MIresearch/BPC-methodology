@@ -32,28 +32,20 @@ alt="Web Analytics"></a></div></noscript>
 
 
 <H1><b>MI Research Department on Github </b></H1>  <Hr>
-<H2><b>Best Performing Cities -- BPC</b></H2>  <Hr>
+<H2><b>Best Performing Cities -- BPC (Methodology)</b></H2>  <Hr>
 
 
-Amidst the shifting economic landscape of recent years, the Best Perofrming Cities rankings provide an objetive framework for evaluation of the relative performance of US metropolitan areas (cities). The rankings leverage 12 mesaures of measures of economic performance that fall into three general categories: labor-market performance, high-tech impact, and access to economic opportunities. 
+The BPC rankings leverage 12 mesaures of measures of economic performance that fall into three general categories: labor-market performance, high-tech impact, and access to economic opportunities. These categories, and the 12 measures included in the index, are displayed in the chart below; scroll over the measures to learn more.
  <Br>
    
   <iframe src="https://public.tableau.com/views/CatSubcat-Sunburst-test_16813245515010/BPC-dash?:showVizHome=no&:embed=true"  width="100%" height="650" frameborder="0"></iframe>
   <Br>
 
-To account for the influence of population size, US metropolitan areas are divided into large and small cities, and large and small cities are further divided into five tiers based on their relative performance, with top-ranked cities in Tier 1 and bottom-ranked cities in Tier 5. The interactive map below gives users the ability to compare cities' performance at the category and measure level relative to their peers – determined by city size and BPC tier. 
+The BPC rankings include 403 cities defined using the US Office of Managment and Budget delineations for metropolitan statistical areas (MSAs) and metropolitan divisions (MDs). To account for the influence of population size, the 403 cities are divided into large and small, and rankings are calculated separately for large and small cities. Large and small cities are further divided into five tiers based on their relative performance, with top-ranked cities in Tier 1 and bottom-ranked cities in Tier 5. To learn more about the tiers, and about how the rankings are calculated, download the BPC methodological appendix. 
 
 <a href=" https://miresearch.github.io/About/" target="_blank"> <b>Back to MI Research's main github page</b>  </a>
 
 
-<H2>Interactive Map</H2> 
- 
- <iframe src="https://public.tableau.com/views/BPC_Tool2023_16813128784530/Dash-Emp?:showVizHome=no&:embed=true"  width="100%" height="650" frameborder="0"></iframe>
-  <Br>
-  
- <Br>
-
-   
 <H2>BPC Report </H2>
 -<a href="https://milkeninstitute.org/reports/latin-america-global-opportunity-index" target="_blank"> Global Opportunity Index 2021: Focus on Latin America </a> <br>
 
