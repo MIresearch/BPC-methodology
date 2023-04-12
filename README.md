@@ -47,7 +47,7 @@ The BPC rankings include 403 cities defined using the US Office of Managment and
 
 
 <H2>BPC Report </H2>
--<a href="https://milkeninstitute.org/reports/latin-america-global-opportunity-index" target="_blank"> Global Opportunity Index 2021: Focus on Latin America </a> <br>
+-<a href="https://milkeninstitute.org/research-department" target="_blank"> Best Performing Cities 2023: Navigating a Changing Economic Landscape </a> <br>
 
 <Br><Br>
   
