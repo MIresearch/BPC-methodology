@@ -1,32 +1,4 @@
 <br><br>
-<head>
- <!-- Default Statcounter code for Global-Opportunity-Index
-https://miresearch.github.io/Global-Opportunity-Index/ -->
-<script type="text/javascript">
-var sc_project=12339751; 
-var sc_invisible=1; 
-var sc_security="c196880c"; 
-var scJsHost = "https://";
-document.write("<sc"+"ript type='text/javascript' src='" +
-scJsHost+
-"statcounter.com/counter/counter.js'></"+"script>");
-</script>
-<noscript><div class="statcounter"><a title="Web Analytics"
-href="https://statcounter.com/" target="_blank"><img
-class="statcounter"
-src="https://c.statcounter.com/12339751/0/c196880c/0/"
-alt="Web Analytics"></a></div></noscript>
-<!-- End of Statcounter Code -->
- 
-<meta name="twitter:title" content="Global Opportunity Index">
-<meta name="twitter:image" content="https://claudelopezcom.ipage.com/claudelopez/GOI.jpg">
-<meta name="twitter:card" content="summary_large_image">
-
-<meta property="og:title" content="Global Opportunity Index">
-<meta property="og:image" content="https://claudelopezcom.ipage.com/claudelopez/GOI.jpg">
-<meta property="og:image:url" content="https://claudelopezcom.ipage.com/claudelopez/GOI.jpg">
-<meta property="og:image:secure_url" content="https://claudelopezcom.ipage.com/claudelopez/GOI.jpg">
-<meta property="og:url" content="https://miresearch.github.io/Global-Opportunity-Index/">
 
  </head>
 
