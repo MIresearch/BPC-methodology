@@ -17,11 +17,14 @@ class="statcounter"
 src="https://c.statcounter.com/12339751/0/c196880c/0/"
 alt="Web Analytics"></a></div></noscript>
 <!-- End of Statcounter Code -->
-  
+ 
 <meta name="twitter:title" content="Best Performing Cities">
 
 <meta property="og:title" content="Best Performing Cities">
 <meta property="og:url" content="https://miresearch.github.io/Best-Performing-Cities/">
+
+ </head>
+
 
 <H1><b>MI Research Department on Github </b></H1>  <Hr>
 <H2><b>Best Performing Cities -- BPC (Methodology)</b></H2>  <Hr>
