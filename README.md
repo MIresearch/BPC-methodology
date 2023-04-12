@@ -23,9 +23,6 @@ alt="Web Analytics"></a></div></noscript>
 <meta property="og:title" content="Best Performing Cities">
 <meta property="og:url" content="https://miresearch.github.io/Best-Performing-Cities/">
 
- </head>
-
-
 <H1><b>MI Research Department on Github </b></H1>  <Hr>
 <H2><b>Best Performing Cities -- BPC (Methodology)</b></H2>  <Hr>
 
