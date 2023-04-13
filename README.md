@@ -30,13 +30,15 @@ alt="Web Analytics"></a></div></noscript>
 <H2><b>Best Performing Cities -- BPC (Methodology)</b></H2>  <Hr>
 
 
-The BPC rankings are calculated using a combination of short- and medium-term measures that fall into three general categories: labor-market performance, high-tech impact, and access to economic opportunities. The 12 measures included in the rankings, classified by their respective categories, are displayed in the chart below: 
+The BPC rankings are calculated using a combination of short- and medium-term measures that fall into three general categories: labor-market performance, high-tech impact, and access to economic opportunities. The 12 measures included in the rankings, classified into their respective categories, are displayed in the chart below: 
  <Br>
    
   <iframe src="https://public.tableau.com/views/CatSubcat-Sunburst-test_16813245515010/BPC-dash?:showVizHome=no&:embed=true"  width="100%" height="650" frameborder="0"></iframe>
   <Br>
 
-The BPC rankings include 403 cities defined using the US Office of Managment and Budget delineations for metropolitan statistical areas (MSAs) and metropolitan divisions (MDs). To account for the influence of population size, the 403 cities are divided into large and small, and rankings are calculated separately for large and small cities. Large and small cities are further divided into five tiers based on their relative performance, with top-ranked cities in Tier 1 and bottom-ranked cities in Tier 5. To learn more about the tiers, and about how the rankings are calculated, download the <a href="https://github.com/MIresearch/BPC-methodology/blob/master/_BPC%202023%20Online-Appendix.pdf" target="_blank"> <b>BPC methodological appendix</b> </a>.
+To define the geograhpic boundaries of cities, the rankings use the US Office of Managment and Budget delineations of metropolitan statistical areas (MSAs) and metropolitan divisions (MDs). The resulting 403 cities are divided into 200 large and 203 small cities. To account for the influence of population size on growth and performance, the rankings are calculated separately for large and small cities. <Br>
+   
+Large and small cities are further divided into five tiers based on their BPC index scores, with top-ranked cities in Tier 1 and bottom-ranked cities in Tier 5. The number of cities in each tier depends on the distribution of BPC scores along the full range of the index. To learn more about the tiers, and about how the rankings are calculated, download the <a href="https://github.com/MIresearch/BPC-methodology/blob/master/_BPC%202023%20Online-Appendix.pdf" target="_blank"> <b>BPC methodological appendix</b> </a>.
 
 <H2>BPC Report </H2>
 -<a href="https://milkeninstitute.org/research-department" target="_blank"> Best Performing Cities 2023: Navigating a Changing Economic Landscape </a> <br>
