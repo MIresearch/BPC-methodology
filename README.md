@@ -30,7 +30,7 @@ alt="Web Analytics"></a></div></noscript>
 <H2><b>Best Performing Cities -- BPC (Methodology)</b></H2>  <Hr>
 
 
-The BPC rankings leverage 12 mesaures of measures of economic performance that fall into three general categories: labor-market performance, high-tech impact, and access to economic opportunities. These categories, and the 12 measures included in the index, are displayed in the chart below; scroll over the measures to learn more.
+The BPC rankings are calculated using a combination of short- and medium-term measures that fall into three general categories: labor-market performance, high-tech impact, and access to economic opportunities. The 12 measures included in the rankings, classified by their respective categories, are displayed in the chart below: 
  <Br>
    
   <iframe src="https://public.tableau.com/views/CatSubcat-Sunburst-test_16813245515010/BPC-dash?:showVizHome=no&:embed=true"  width="100%" height="650" frameborder="0"></iframe>
