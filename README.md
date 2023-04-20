@@ -29,9 +29,7 @@ alt="Web Analytics"></a></div></noscript>
 <H1><b>MI Research Department on Github </b></H1>  <Hr>
 <H2><b>Best Performing Cities -- BPC (Methodology)</b></H2>  <Hr>
 
- <a href="https://miresearch.github.io/Best-Performing-Cities/" target="_blank"><button class="button button2"><b>Main BPC Page</b></button></a> <br>
- <a href="https://miresearch.github.io/BPC-Large/" target="_blank"><button class="button button2"><b>Large Cities</b></button></a> <br>
- <a href="https://miresearch.github.io/BPC-Small/" target="_blank"><button class="button button2"><b>Small Cities</b></button></a> 
+ <a href="https://miresearch.github.io/Best-Performing-Cities/" target="_blank"><button class="button button2"><b>Main BPC Page</b></button></a> <a href="https://miresearch.github.io/BPC-Large/" target="_blank"><button class="button button2"><b>Large Cities</b></button></a> <a href="https://miresearch.github.io/BPC-Small/" target="_blank"><button class="button button2"><b>Small Cities</b></button></a> 
 
 The BPC rankings are calculated using a combination of short- and medium-term measures that fall into three general categories: labor-market performance, high-tech impact, and access to economic opportunities. The 12 measures included in the rankings, classified into their respective categories, are displayed in the chart below: 
  <Br>
