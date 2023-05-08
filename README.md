@@ -47,7 +47,7 @@ To provide a comprehensive assessment of cities’ performance and the economic 
 
 To facilitate interpretation of the BPC rankings, cities are divided into five tiers based on their BPC index scores. The tiers are created by dividing the full range of the BPC scores (i.e., the difference between the highest and lowest score) into five consecutive subsegments of equal length. Cities are classified into these tiers depending on which of the five subsegments their scores fall into. This methodology results in   the number of cities in each tier depending on the distribution of scores along the full range of the index.(4)  The classification of cities into tiers is done separately for large and small cities. <Br>
 
-<H3> Notes</H3> <Br>
+<H3> Notes</H3> 
 
 (1) The delineations of metropolitan statistical areas and metropolitan divisions used in the 2023 BPC report correspond to those outlined in OMB Bulletin No. 18-03, released on April 10, 2018. Since then, the OMB has updated its definition of MSAs and MDs as described in OMB Bulletin No. 18-04, released on September 14, 2018. However, the Bureau of Labor Statistics (BLS) continues to use the geographic definitions based on OMB Bulletin No. 18-03. Since the BPC index is calculated using measures based on BLS data, the geographic definitions used throughout the report and in the index correspond to the April 2018 definitions used by the BLS.  <Br>
 (2) See “OMB Bulletin No. 18-03,” White House, Appendix, p.2, available at https://www.whitehouse.gov/wp-content/uploads/2018/04/OMB-BULLETIN-NO.-18-03-Final.pdf. <Br>
